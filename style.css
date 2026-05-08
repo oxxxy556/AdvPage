@@ -55,7 +55,7 @@ body {
 }
 
 .cta-button {
-    background-color: #ff6b35;
+    background-color: #db4a4a;
     color: white;
     border: none;
     padding: 15px 30px;
@@ -66,7 +66,7 @@ body {
 }
 
 .cta-button:hover {
-    background-color: #e55a2b;
+    background-color: #f88f8f;
 }
 
 @media (max-width: 768px) {
